@@ -14,3 +14,8 @@ Learned few interested commands:
 Usefulle coommands, **pwd**
 ![Udacity complete course](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_linux_cli/lesson2-linuxsurvival.png)
 Now can send files for print and remove processes kill -9.
+
+## Git Collaboration
+[coursera git course](https://www.coursera.org/learn/introduction-git-github)
+![Udacity complete course](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_git_collaboration/lesson3-coursera-git.png)
+New was information about **gut rebase** funciton, and how it affect commits history.
