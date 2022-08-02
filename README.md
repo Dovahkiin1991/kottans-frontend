@@ -24,3 +24,11 @@ New was information about **git rebase** function, and how it affect commits his
 ![learngitbranching part 1](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_git_collaboration/lesson3-gitbranching1.png)
 
 ![learngitbranching part 2](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_git_collaboration/lesson3-gitbranching2.png)
+
+## Intro to HTML and CSS
+[coursera-html-css-part course](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+![coursera-html-css-part 1](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson4-coursera1.png)
+
+![coursera-html-css-part 2](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson4-coursera2.png)
+
+New info about floating elements. 
