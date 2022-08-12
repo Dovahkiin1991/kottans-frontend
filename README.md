@@ -31,4 +31,6 @@ New was information about **git rebase** function, and how it affect commits his
 
 ![coursera-html-css-part 2](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson4-coursera2.png)
 
-New info about floating elements. 
+New info about floating elements.
+ ![codecademy-html-css](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson4-html-and-css.png)
+New: How hard to write code without emmet)
