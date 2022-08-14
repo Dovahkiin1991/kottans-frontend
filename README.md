@@ -34,3 +34,8 @@ New was information about **git rebase** function, and how it affect commits his
 New info about floating elements.
  ![codecademy-html-css](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson4-html-and-css.png)
 New: How hard to write code without emmet)
+
+## Responsive Web Design
+![flexbox-froggy](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_responsive_web_design/lesson5-flexboxfroggy.png) 
+![grid-garden](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_responsive_web_design/lesson5-cssgridgarden.png)
+Fun css games with flexbox and grid.
