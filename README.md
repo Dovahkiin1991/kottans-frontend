@@ -34,8 +34,6 @@ New was information about **git rebase** function, and how it affect commits his
 New info about floating elements
 
 ## HTML і CSS практика: Hooli-style Popup.
-[Demo](https://dovahkiin1991.github.io/html-css-popup/) |
-[Code base](https://github.com/Dovahkiin1991/html-css-popup)
  ![codecademy-html-css](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson4-html-and-css.png)
 New: How hard to write code without emmet)
 
@@ -43,3 +41,7 @@ New: How hard to write code without emmet)
 ![flexbox-froggy](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_responsive_web_design/lesson5-flexboxfroggy.png) 
 ![grid-garden](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_responsive_web_design/lesson5-cssgridgarden.png)
 Fun css games with flexbox and grid.
+
+## HTML і CSS практика: Hooli-style Popup.
+[Demo](https://dovahkiin1991.github.io/html-css-popup/) |
+[Code base](https://github.com/Dovahkiin1991/html-css-popup)
