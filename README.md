@@ -24,7 +24,7 @@ Learned few interested commands:
 ![linuxsurvival course](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_linux_cli/lesson2-linuxsurvival.png)
 </details>
 
-Usefulle coommands, **pwd**
+Useful commands, **pwd**
 Now can send files for print and remove processes kill -9.
 
 ## Git Collaboration
@@ -59,9 +59,8 @@ New was information about **git rebase** function, and how it affect commits his
 
 New info about floating elements
 
-## HTML і CSS практика: Hooli-style Popup.
 <details>
-<summary>Hooli-style Popup image</summary>
+<summary>codecademy-html-css images</summary>
 
 ![codecademy-html-css](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson4-html-and-css.png)
 </details>
@@ -86,10 +85,10 @@ Fun css games with flexbox and grid.
 <details>
 <summary>JS Basics images</summary>
 
-![codecademy-js-basics](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson6-coursera.png)
-![freecodecamp1](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson6-freecodecamp1.png)
-![freecodecamp2](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson6-freecodecamp2.png)
-![freecodecamp3](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_html_css_intro/lesson6-freecodecamp3.png)
+![codecademy-js-basics](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_js_basics/lesson6-coursera.png)
+![freecodecamp1](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_js_basics/lesson6-freecodecamp1.png)
+![freecodecamp2](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_js_basics/lesson6-freecodecamp2.png)
+![freecodecamp3](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_js_basics/lesson6-freecodecamp3.png)
 </details>
 
 Solving JS algorithms cracked my mind and broke my psychic :)
