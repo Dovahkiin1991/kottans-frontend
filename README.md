@@ -93,3 +93,16 @@ Fun css games with flexbox and grid.
 
 Solving JS algorithms cracked my mind and broke my psychic :)
 New was es6, regex, working with arrays/objects.
+
+## DOM
+<details>
+<summary>JS DOM images</summary>
+
+![coursera-js-dom](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_js_dom/js-dom1.png)
+![freecodecamp-algoritm](https://github.com/Dovahkiin1991/kottans-frontend/blob/main/task_js_dom/js-dom2.png)
+</details>
+
+Worked on the JS DOM manipulation task, made simple dashboard with data updated by click.
+
+[Demo](https://dovahkiin1991.github.io/js-dom-manipulation/) |
+[Code base](https://github.com/Dovahkiin1991/js-dom-manipulation)
