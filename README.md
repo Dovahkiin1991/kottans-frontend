@@ -107,6 +107,6 @@ Worked on the JS DOM manipulation task, made simple dashboard with data updated 
 [Demo](https://dovahkiin1991.github.io/js-dom-manipulation/) |
 [Code base](https://github.com/Dovahkiin1991/js-dom-manipulation)
 
-##Building a Tiny JS World
+## Building a Tiny JS World
 [Demo](https://dovahkiin1991.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/Dovahkiin1991/a-tiny-JS-world)
