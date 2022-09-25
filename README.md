@@ -110,3 +110,10 @@ Worked on the JS DOM manipulation task, made simple dashboard with data updated 
 ## Building a Tiny JS World
 [Demo](https://dovahkiin1991.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/Dovahkiin1991/a-tiny-JS-world)
+
+## Object Oriented JS
+Have build classic frogger game, with js classes.
+[Demo](https://dovahkiin1991.github.io/frontend-nanodegree-arcade-game/) |
+[Code base](https://github.com/Dovahkiin1991/frontend-nanodegree-arcade-game)
+
+[Codewars Profile Link](https://www.codewars.com/users/Dovahkiin1991)
