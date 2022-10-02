@@ -117,3 +117,22 @@ Have build classic frogger game, with js classes.
 [Code base](https://github.com/Dovahkiin1991/frontend-nanodegree-arcade-game)
 
 [Codewars Profile Link](https://www.codewars.com/users/Dovahkiin1991)
+
+## OOP exercise
+Re-write a Tiny JS Worlds with OOP. 
+[Demo](https://dovahkiin1991.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/Dovahkiin1991/a-tiny-JS-world)
+
+Link to the PR - [link](https://github.com/kottans/frontend-2022-homeworks/pull/682)
+
+## Memory – Pair Game
+Have fun with memory pair task.
+
+[Demo](https://dovahkiin1991.github.io/memory-pair-game/) |
+[Code base](https://github.com/Dovahkiin1991/memory-pair-game)
+
+## Friends App
+Cracked mind with this task, learned more about fetch, map, reduce.
+
+[Demo](https://dovahkiin1991.github.io/friends-app/) |
+[Code base](https://github.com/Dovahkiin1991/friends-app)
